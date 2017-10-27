@@ -1,6 +1,4 @@
-#Repositorio
-Este es mi repositorio
+#Ejemplos de pyhton 3
 
-*el1
-*el2
-*el3
+# Como usar
+./hola.py
